@@ -14,6 +14,7 @@ or
 ## Execute Guide
 
 To execute this program, run:
+
 ```bash
 leo execute play
 ```
@@ -27,6 +28,7 @@ leo --help
 to confirm that Leo is installed.
 
 ## The leo account command
+
 ```bash
 leo account new
 ```
@@ -67,6 +69,7 @@ Options:
 ```
 
 Choose one of the examples, and create it using the leo example command like so: 
+
 ``` bash
 leo example tictactoe
 ```
