@@ -36,7 +36,7 @@ Continue in your existing terminal window and type
 ```
 leo account new
 ```
-,you should see something similar to the following output:
+you should see something similar to the following output:
 ```bash
 Private Key  APrivateKey1zkpAeeSTY6CuV2ahuJsHLqBFEChK3NnKxLqDyFoMQVmi1Ru
 View Key  AViewKey1cuV5NU4WgkHezc6fFFduECwrpGg8knqyb78YFJVmhhMT
@@ -79,8 +79,8 @@ leo example tictactoe
 leo run $FUNCTION
 ```
 Navigate to the root of your Leo project's folder using the 
-```
- cd
+```bash
+cd
 ```
 command, i.e., 
 ```
