@@ -17,7 +17,8 @@ To execute this program, run:
 ```bash
 leo execute play
 ```
-##The leo help command
+
+## The leo help command
 
 Open a new terminal window and type: 
 ```leo --help``` 
