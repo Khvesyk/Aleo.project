@@ -26,11 +26,26 @@ leo --help
 ``` 
 to confirm that Leo is installed.
 
+## The leo account command
+```bash
+leo account new
+```
+Continue in your existing terminal window and type 
+```
+leo account new
+```
+,you should see something similar to the following output:
+```bash
+Private Key  APrivateKey1zkpAeeSTY6CuV2ahuJsHLqBFEChK3NnKxLqDyFoMQVmi1Ru
+View Key  AViewKey1cuV5NU4WgkHezc6fFFduECwrpGg8knqyb78YFJVmhhMT
+Address  aleo14hmf2rfh5nne6m7wsqlklqzcagh2tjydecvjycgj80snnns9svqsyjzsll
+```
+
 ## The leo example command
 
 Continue in your exsiting terminal window and type:
 ```bash
-leo example
+leo example $NAME
 ```
 You should see the following output:
 ```bash
@@ -55,4 +70,32 @@ Choose one of the examples, and create it using the leo example command like so:
 ``` bash
 leo example tictactoe
 ```
+
+## The leo run command
+``` bash
+leo run $FUNCTION
+```
+Navigate to the root of your Leo project's folder using the 
+```
+ cd
+```
+command, i.e., 
+```
+cd tictactoe
+```
+To run your new Leo example, refer to the included 
+```
+README.md
+```
+file, which you can find in the root of your newly created project's folder.
+
+An example 
+```
+leo run
+```
+command for the tictactoe application is 
+```
+leo run new
+```
+which creates a new game board.
  
