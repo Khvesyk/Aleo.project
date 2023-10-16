@@ -1,5 +1,4 @@
 # Aleo.project
-# lottery.aleo
 
 ## Run Guide
 
