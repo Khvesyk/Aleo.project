@@ -27,6 +27,7 @@ leo --help
 to confirm that Leo is installed.
 
 ## The leo example command
+
 Continue in your exsiting terminal window and type:
 ```bash
 leo example
